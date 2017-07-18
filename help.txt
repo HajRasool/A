@@ -1,0 +1,113 @@
+[??](AdvanSource`, _bot with fast speed and high power)_
+
+[![Join the chat at https://gitter.im/janlou/AdvanSource](https://badges.gitter.im/AdvanSource.svg)](https://gitter.im/janlou/AdvanSource?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+It is an anti spam bot (CLI) with fast speed and free for you! based on [TeleSeed](https://github.com/SEEDTEAM/TeleSeed) and powered by [ADVANô](http://telegram.me/advantm), this source have an original *Autolaunch* and *Steady script* for your ubuntu server. ***
+
+Creator: [[ JOIN! ]](https://telegram.me/advanbot)
+
+Channel: [[ JOIN! ]](https://telegram.me/joinchat/CbNIGj07Z0YAy3CX5MRQaQ)
+
+Support: [[ JOIN! ]](https://telegram.me/joinchat/Bqy_YT_BXhTWrPiN97yvsg) *** ## You can create an account for free in: |Rank | Name | Adress | |:--------|:----------|:------------| |
+`Rank` _(1)_ | Codenvy | [https://codenvy.com](https://codenvy.com) | |
+`Rank` _(2)_ | Codeanywhere | [https://codeanywhere.com](https://codeanywhere.com) | |
+`Rank` _(3)_ | Cloud9 | [https://C9.io](https://C9.io) | |
+`Rank` _(4)_ | Koding | [https://koding.com](https://koding.com) | |
+`Rank` _(5)_ | SourceLair | [https://www.sourcelair.com/home](https://www.sourcelair.com) | |
+`Rank` _(6)_ | Nitrous | [https://www.nitrous.io/](https://www.nitrous.io) |
+
+##Strong management:
+
+    Lock link
+
+    Lock spam
+
+    Lock flood
+
+    Lock media
+
+    Lock bots
+
+    Lock forward(fwd)
+
+    Lock reply
+
+    Lock share
+
+    Lock tag
+
+    Lock number
+
+    Lock poker
+
+    Lock audio
+
+    Lock video
+
+    Lock gifs
+
+    Lock documents
+
+    Lock photo
+
+    Lock all
+
+    Lock text
+
+    Lock inline
+
+    Lock cmd
+
+    Lock sticker
+
+    Lock rtl
+
+    Lock strict
+
+    Lock tgservice
+
+    Public & members
+
+    Show mutes list in settings
+
+    And ...
+
+SuperGroup's languages (you can say !lang list):
+
+| Commands | Usage | |:--------|:----------|:------------| |
+[!#/]setlang en | Change launguage of supergroup to enlish when you are in a supergroup | |
+[!#/]setlang fa |  €ÌÌ— “»«‰ ”ÊÅ—ê—ÊÂ »Â ›«—”Ì »« œ” Ê—«  «‰ê·Ì”Ì “„«‰ÌòÂ ‘„« œ— ”ÊÅ—ê—ÊÂ „Ì»«‘Ìœ | |
+[!#/]setlang ›« |  €ÌÌ— “»«‰ ”ÊÅ—ê—ÊÂ ›«—”Ì »« œ” Ê—«  ›«—”Ì “„«‰ÌòÂ ‘„« œ— ”ÊÅ—ê—ÊÂ „Ì»«‘Ìœ |
+
+Chat's languages:
+
+| Commands | Usage | |:--------|:----------|:------------| |
+[!#/]setlang en | Change launguage of chat to enlish when you are in a chat | |
+[!#/]setlang fa |  €ÌÌ— “»«‰ ç  »Â ›«—”Ì »« œ” Ê—«  «‰ê·Ì”Ì “„«‰ÌòÂ ‘„« œ— ç  „Ì»«‘Ìœ | |
+[!#/]setlang ›« |  €ÌÌ— “»«‰ ç  ›«—”Ì »« œ” Ê—«  ›«—”Ì “„«‰ÌòÂ ‘„« œ— ç  „Ì»«‘Ìœ |
+
+INSTALL BOT
+
+    Clone Source:
+
+git clone https://github.com/janlou/AdvanSource && cd AdvanSource
+
+    install bot:
+
+chmod 700 start.sh
+./start.sh install
+y
+
+ANTI CRASH
+
+tmux new-session -s script "bash steady.sh -t"
+
+    Now run your bot then enter bot's phone number and join code:
+
+./start.sh -q
+
+    And you can start bot with steady script:
+
+FREE SERVER:
+./steady.sh -t
+BOUGHT SERVER:
+screen ./steady.sh -t
